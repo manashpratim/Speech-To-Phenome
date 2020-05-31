@@ -1,7 +1,11 @@
 # Speech-To-Phenome
-# Description
+## Description
 
-Generated phonemes using CNNs and Bidirectional LSTMs and CTC loss, given a training set of speech recordings and unaligned phonemes, achieving a Levenshtein distance of 7.23 on the test set, convincingly beating the A cutoff of 9. 
+o Generated phonemes using a model consisting of CNNs and Bidirectional LSTMs with a training set of speech recordings and unaligned phonemes.
+
+o Used CTC Loss.
+
+o Achieving a Levenshtein distance of 7.23 on the test set, convincingly beating the A cutoff of 9.
 
 Dateset available on request.
 
